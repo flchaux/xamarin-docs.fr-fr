@@ -374,7 +374,7 @@ Les propriétés CSS suivantes sont prises en charge par Xamarin.Forms (dans le 
 |`font-family`|`Button`, `DatePicker`, `Editor`, `Entry`, `Label`, `Picker`, `SearchBar`, `TimePicker`, `Span`|_Chaîne_ \| `initial` |`font-family: Consolas;`|
 |`font-size`|`Button`, `DatePicker`, `Editor`, `Entry`, `Label`, `Picker`, `SearchBar`, `TimePicker`, `Span`|_Double_ \| _namedsize_  \| `initial` |`font-size: 12;`|
 |`font-style`|`Button`, `DatePicker`, `Editor`, `Entry`, `Label`, `Picker`, `SearchBar`, `TimePicker`, `Span`|`bold` \| `italic` \| `initial` |`font-style: bold;`|
-|`height`|`VisualElement`|_Double_ \| `initial` |`min-height: 250;`|
+|`height`|`VisualElement`|_Double_ \| `initial` |`height: 250;`|
 |`margin`|`View`|_Épaisseur_ \| `initial` |`margin: 6 12;`|
 |`margin-left`|`View`|_Épaisseur_ \| `initial` |`margin-left: 3;`|
 |`margin-top`|`View`|_Épaisseur_ \| `initial` |`margin-top: 2;`|
